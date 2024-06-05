@@ -36,7 +36,7 @@
 
 # 🌐 Connect with me! <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="33px">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadeqsoltani22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadeqsoltani)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Sadeqsoli)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:SoliSadeq@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sadeqsoltani22)
