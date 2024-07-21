@@ -1,7 +1,3 @@
-Sure, here's the updated GitHub README:
-
----
-
 # Hello, I'm Sadeq Soltani! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px">
 
 <h2> 👨‍💻 About Me </h2>
