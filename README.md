@@ -1,29 +1,59 @@
+Sure, here's the updated GitHub README:
+
+---
+
 # Hello, I'm Sadeq Soltani! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px">
 
 <h2> 👨‍💻 About Me </h2>
 
-🔭 I’m currently working as a Mid-Level Unity Game Developer at ShinyPi.
+🔭 Software Engineer | Exp. Game Developer | Unity, C#, JavaScript, React, Angular, ASP.NET, Django, Node.js, Dart and Flutter | AI Student 👨‍💻
 
-🌱 I’m currently learning advanced game development techniques, AI integration in games, and DevOps.
+🌱 I’m currently exploring advanced game development techniques in (Unity, Unreal, Godot) engines, AI integration in games, DevOps, and learning JavaScript frameworks (React, Angular, Vue), as well as app development with Flutter and Dart.
 
-🤝 I’m open to collaborating on game development projects and research in AI and game design.
+🤝 I’m open to collaborating on game development projects and research in the AI field on platforms like Kaggle or other different public events.
 
-💬 Talk to me about game development, artificial intelligence, system design, and research.
+💬 Love to talk about software development (APP or Game), artificial intelligence and its derivitives, analyzing and designing complex systems, and researching in those area.
 
-⚡ Fun Fact: I love designing and analyzing complex systems.
+⚡ Fun Fact: I love experimenting with different project management methodologies to find the most efficient workflow for each team.
 
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="35px">
 
+## Software Development
+### Game Development
 <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg"> </a>
 <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg"> </a>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg"> </a>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg"> </a>
+
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg"> </a>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"> </a>
+
+![Godot GD Script](https://img.shields.io/badge/Godot-GDScript-FF3300?style=for-the-badge&logo=Xilinx-VHDL&logoColor=white)
+
+### Application Development
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg"> </a>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg"> </a>
+
+### Front-End Development
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/react.svg"> </a>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg"> </a>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg"> </a>
 <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
 <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
 
-## ![Xilinx VHDL](https://img.shields.io/badge/Xilinx-VHDL-FF3300?style=for-the-badge&logo=Xilinx-VHDL&logoColor=white) ![Microsoft Visio](https://img.shields.io/badge/Microsoft-Visio-3955A3?style=for-the-badge&logo=Microsoft-Visio&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=white) ![Assembly ARM](https://img.shields.io/badge/Assembly-ARM-D83B01?style=for-the-badge&logo=Assembly-ARM&logoColor=white) ![Assembly x86](https://img.shields.io/badge/Assembly-x86-FF61F6?style=for-the-badge&logo=Assembly-x86&logoColor=white) ![Assembly x64](https://img.shields.io/badge/Assembly-x64-054ADA?style=for-the-badge&logo=Assembly-x64&logoColor=white)  ![Google Workspace](https://img.shields.io/badge/Google-Workspace-4285F4?style=for-the-badge&logo=Google-Workspace&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft-Office-D83B01?style=for-the-badge&logo=Microsoft-Office&logoColor=white) ![IBM](https://img.shields.io/badge/IBM-Rational-054ADA?style=for-the-badge&logo=IBM&logoColor=white) ![Xmind](https://img.shields.io/badge/Xmind-FF3300?style=for-the-badge&logo=Xmind&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe-InDesign-FF3366?style=for-the-badge&logo=Adobe-InDesign&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe-Audition-9999FF?style=for-the-badge&logo=Adobe-Audition&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe-XD-FF61F6?style=for-the-badge&logo=Adobe-XD&logoColor=white) 
+### Back-End Development
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg"> </a>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg"> </a>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg"> </a>
+
+### AI Develpment
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg"> </a>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg"> </a>
+
+### Other Technologies
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg"> </a>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg"> </a>
+
+##  ![Microsoft Visio](https://img.shields.io/badge/Microsoft-Visio-3955A3?style=for-the-badge&logo=Microsoft-Visio&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=white)  ![Google Workspace](https://img.shields.io/badge/Google-Workspace-4285F4?style=for-the-badge&logo=Google-Workspace&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft-Office-D83B01?style=for-the-badge&logo=Microsoft-Office&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe-XD-FF61F6?style=for-the-badge&logo=Adobe-XD&logoColor=white)  ![IBM-Rational](https://img.shields.io/badge/IBM-Rational-054ADA?style=for-the-badge&logo=IBM&logoColor=white) ![Xmind](https://img.shields.io/badge/Xmind-FF3300?style=for-the-badge&logo=Xmind&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe-InDesign-FF3366?style=for-the-badge&logo=Adobe-InDesign&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe-Audition-9999FF?style=for-the-badge&logo=Adobe-Audition&logoColor=white)
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="3px">
 
@@ -46,3 +76,5 @@
 [![](https://visitcount.itsvg.in/api?id=Sadeqsoli&icon=0&color=4)](https://visitcount.itsvg.in)
 
 ### Show some ❤ by giving a ⭐ to my repositories.
+
+---
