@@ -2,9 +2,9 @@
 
 <h2> 👨‍💻 About Me </h2>
 
-🔭 Software Engineer | Machine Learning, Deep Learning | Exp. Game Developer | Unity + C# 
+🔭 Software Engineer | Product Manager | Machine Learning, Deep Learning | Exp. App & Game Developer 
 
-🌱 I’m currently exploring AI integration and simulation in game engines (Unity, Godot), DevOps, and app development with Flutter and Dart.
+🌱 I’m currently exploring AI integration and simulation in game engines (Unity, Godot).
 
 💬 Love to talk about artificial intelligence and its derivatives, software development (APP or Game), analyzing and designing complex systems, and researching in those areas.
 
