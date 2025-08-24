@@ -2,13 +2,13 @@
 
 <h2> 👨‍💻 About Me </h2>
 
-🔭 Software Engineer | Product Manager | Machine Learning, Deep Learning | Exp. App & Game Developer 
+🔭 Software Engineer | Product Manager | Ready to Join: AI + Software + Robotics
 
 🌱 I’m currently exploring AI integration and simulation in game engines (Unity, Godot).
 
 💬 Love to talk about artificial intelligence and its derivatives, software development (APP or Game), analyzing and designing complex systems, and researching in those areas.
 
-⚡ Fun Fact: I love experimenting with different AI tools and technices for research to find the most efficient solution for each problem.
+⚡ Fun Fact: I love experimenting with different AI tools and techniques for research to find the most efficient solution for each problem.
 
 ---
 
