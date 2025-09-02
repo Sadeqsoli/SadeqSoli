@@ -1,8 +1,6 @@
 # Hello, I'm Sadeq Soltani! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px">
 
-<h2> 👨‍💻 About Me </h2>
-
-🔭 Software Engineer | Product Manager | Ready to Join: AI + Software + Robotics
+🔭 Software Engineer | Product Owner | Ready to Join: AI + Software + Robotics
 
 🌱 I’m currently exploring AI integration and simulation in game engines (Unity, Godot).
 
