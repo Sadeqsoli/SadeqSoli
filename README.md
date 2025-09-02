@@ -2,8 +2,6 @@
 
 🔭 Software Engineer | Product Owner | Ready to Join: AI + Software + Robotics
 
-🌱 I’m currently exploring AI integration and simulation in game engines (Unity, Godot).
-
 💬 Love to talk about artificial intelligence and its derivatives, software development (APP or Game), analyzing and designing complex systems, and researching in those areas.
 
 ⚡ Fun Fact: I love experimenting with different AI tools and techniques for research to find the most efficient solution for each problem.
