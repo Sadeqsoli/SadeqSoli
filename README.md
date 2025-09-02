@@ -16,8 +16,6 @@
 ### Game Development
 <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg"> </a>
 <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg"> </a>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg"> </a>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"> </a>
 ![Godot GD Script](https://img.shields.io/badge/Godot-GDScript-FF3300?style=for-the-badge&logo=Xilinx-VHDL&logoColor=white)
 
 ### Application Development
