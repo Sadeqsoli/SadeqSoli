@@ -1,33 +1,31 @@
-# Hello, I'm Sadeq Soltani! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px">
+# Sadeq Soltani
+### Senior Product Manager | AI & Digital Platforms
 
-🔭 Software Engineer | Product Owner | Ready to Join: AI + Software + Robotics
-
-💬 Love to talk about artificial intelligence and its derivatives, software development (APP or Game), analyzing and designing complex systems, and researching in those areas.
-
-⚡ Fun Fact: I love experimenting with different AI tools and techniques for research to find the most efficient solution for each problem.
+I lead the intersection of product strategy, engineering execution, and data-driven insights. With 10+ years of experience, I focus on building scalable products that solve real customer problems and improve operational efficiency.
 
 ---
 
-## Artificial Intelligence
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg"> </a>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg"> </a>
-
-### Game Development
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg"> </a>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg"> </a>
-![Godot GD Script](https://img.shields.io/badge/Godot-GDScript-FF3300?style=for-the-badge&logo=Xilinx-VHDL&logoColor=white)
-
-### Application Development
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg"> </a>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg"> </a>
-
-
-# 📊 GitHub Stats <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" height="32px">
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeqsoli&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Professional Focus
+*   **Product Strategy & Roadmapping:** Defining end-to-end product vision, prioritizing backlogs, and ensuring alignment across cross-functional engineering and business stakeholders.
+*   **AI & BI Integration:** Architecting AI-powered tooling and data pipelines to optimize workflows and drive data-informed decision-making.
+*   **Operational Scaling:** Transforming complex requirements (compliance, technical parity, cross-market expansion) into clear, actionable delivery plans.
+*   **Technical Leadership:** Bridging the gap between high-level business strategy and low-level engineering constraints.
 
 ---
+
+### Competencies
+*   **Methodology:** Agile/Scrum, Product Lifecycle Management, PRDs, Stakeholder Alignment
+*   **Data & AI:** Predictive Analytics, ML/DL Model Optimization, Performance Dashboards (Power BI, SQL)
+*   **Tech Stack:** Python, C#, Unity, Flutter, SQL
+
+---
+
+### Approach to Product
+I believe in **diving deep** into the data, **inventing and simplifying** complex workflows, and maintaining **customer obsession** at every stage of the development lifecycle. Whether working on fintech, marketplace platforms, or internal AI tools, my goal is always to deliver measurable business impact.
+
+---
+
+### Let's Connect
+I am always open to discussing product strategy, AI applications, or complex system architecture.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadeqsoltani)
