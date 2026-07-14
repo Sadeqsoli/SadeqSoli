@@ -1,31 +1,39 @@
 # Sadeq Soltani
-### Senior Product Manager | AI & Digital Platforms
 
-I lead the intersection of product strategy, engineering execution, and data-driven insights. With 10+ years of experience, I focus on building scalable products that solve real customer problems and improve operational efficiency.
+### Product Manager | AI & Digital Platforms
+
+Product Manager with a software engineering background and **10+ years of experience** across fintech, ERP, CRM, marketplaces, AI products, and digital commerce.
+
+I translate customer, business, technical, and operational requirements into product strategies, PRDs, prioritized backlogs, KPIs, and measurable delivery plans.
+
+## Professional Focus
+
+* **Product Strategy:** Roadmaps, product discovery, lifecycle management, and backlog prioritization
+* **AI & BI:** Intelligent automation, predictive analytics, and performance dashboards
+* **Technical Leadership:** Engineering alignment, API integrations, and cross-platform delivery
+* **Operational Scaling:** Simplifying complex workflows and improving operational efficiency
+
+## Experience Highlights
+
+* Led and mentored teams of **10+ engineers**
+* Coordinated **20+ creative and technical contributors**
+* Translated **1,000+ customer requirements**
+* Supported operations responsible for **500,000+ delivered products**
+
+## Technologies
+
+`Python` `C#` `SQL` `Unity` `Flutter` `Power BI` `Tableau` `REST APIs`
+
+## Product Approach
+
+I combine customer focus, data-driven decision-making, and technical understanding to build scalable products that improve customer experience, platform adoption, and operational efficiency.
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sadeqsoltani)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Sadeqsoli)
 
 ---
 
-### Professional Focus
-*   **Product Strategy & Roadmapping:** Defining end-to-end product vision, prioritizing backlogs, and ensuring alignment across cross-functional engineering and business stakeholders.
-*   **AI & BI Integration:** Architecting AI-powered tooling and data pipelines to optimize workflows and drive data-informed decision-making.
-*   **Operational Scaling:** Transforming complex requirements (compliance, technical parity, cross-market expansion) into clear, actionable delivery plans.
-*   **Technical Leadership:** Bridging the gap between high-level business strategy and low-level engineering constraints.
-
----
-
-### Competencies
-*   **Methodology:** Agile/Scrum, Product Lifecycle Management, PRDs, Stakeholder Alignment
-*   **Data & AI:** Predictive Analytics, ML/DL Model Optimization, Performance Dashboards (Power BI, SQL)
-*   **Tech Stack:** Python, C#, Unity, Flutter, SQL
-
----
-
-### Approach to Product
-I believe in **diving deep** into the data, **inventing and simplifying** complex workflows, and maintaining **customer obsession** at every stage of the development lifecycle. Whether working on fintech, marketplace platforms, or internal AI tools, my goal is always to deliver measurable business impact.
-
----
-
-### Let's Connect
-I am always open to discussing product strategy, AI applications, or complex system architecture.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadeqsoltani)
+### Product Strategy · AI Products · Digital Platforms · Technical Leadership
