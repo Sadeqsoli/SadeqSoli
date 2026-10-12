@@ -1,6 +1,6 @@
 # Sadeq Soltani
 
-### Senior Product Manager | AI & Digital Platforms
+### Senior Product Manager | Product Strategy & Leadership | AI-Powered Solutions
 
 Senior Product Manager with a software engineering and technical delivery background, experienced in leading products from discovery through launch and scale across enterprise platforms, digital commerce, customer operations, marketplaces, and AI-enabled products. Skilled in translating complex business and technical requirements into product strategies, roadmaps, prioritized backlogs, and measurable outcomes while collaborating with cross-functional teams. Combines technical expertise with data-driven product management to improve customer experiences, operational efficiency, and product performance.
 
